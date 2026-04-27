@@ -1,6 +1,7 @@
 Michael Walker
 CS 397, Seminar 2, Spring 2026
 
+
 Assignment #3, Document Intelligence Pipeline
 
 Part 3:
